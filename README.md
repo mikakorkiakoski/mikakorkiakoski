@@ -12,7 +12,7 @@
 
 - 📫 [Email Me](mailto:mika.korkiakoski@icloud.com)
 
-- 📄 Know about my experiences on [My LinkedIn Profile](https://fi.linkedin.com/in/mika-korkiakoski-ab0bb22b2?trk=people-guest_people_search-card)
+- 📄 Know about my experiences on [My Portfolio Website](https://mikakorkiakoski.github.io/TheAmazingPortfolio)
 
 - ⚡ Fun fact: **At some point Me and Elon Musk will build a rocket to fly across the space in search of the meaning of life with all of humanity on our shoulders**
 <br>
